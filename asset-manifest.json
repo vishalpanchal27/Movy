@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movy/static/css/main.48704204.css",
+    "main.js": "/Movy/static/js/main.d761a56f.js",
+    "static/js/787.2bd50fdf.chunk.js": "/Movy/static/js/787.2bd50fdf.chunk.js",
+    "index.html": "/Movy/index.html",
+    "main.48704204.css.map": "/Movy/static/css/main.48704204.css.map",
+    "main.d761a56f.js.map": "/Movy/static/js/main.d761a56f.js.map",
+    "787.2bd50fdf.chunk.js.map": "/Movy/static/js/787.2bd50fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48704204.css",
+    "static/js/main.d761a56f.js"
+  ]
+}
