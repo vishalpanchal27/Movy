@@ -100,7 +100,7 @@ export default function App() {
     <div className='scroll-smooth'>
       <Navbar />
       <Routes>
-        <Route path='/'
+        <Route path='/Movy'
           element={!loading ?
             (<MovieApi data={data}
               page={page}
