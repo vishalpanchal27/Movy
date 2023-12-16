@@ -13,7 +13,7 @@ const Navbar = () => {
             </div>
             <div>
                 <ul className='flex gap-10 text-lg mt-3'>
-                    <NavLink to='/' className='text-gray-900 no-underline hover:no-underline hover:text-red-500 active:text-red-700 focus:no-underline'> <p className='text-black'> Home </p></NavLink>
+                    <NavLink to='/Movy' className='text-gray-900 no-underline hover:no-underline hover:text-red-500 active:text-red-700 focus:no-underline'> <p className='text-black'> Home </p></NavLink>
                     <NavLink to='/favourite' className='text-gray-900 no-underline hover:no-underline hover:text-red-500 active:text-red-700 focus:no-underline'> <p className='text-black'> Favourite </p> </NavLink>
 
                     {
